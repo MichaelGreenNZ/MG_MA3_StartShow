@@ -1,6 +1,14 @@
 # MA3_StartShow
 My custom grandMa 3 StartShow file.
 
+The modifications I have made to the start show are:
+
+* Compact Position Picker, with Go Button to all move at once.
+* Compact Gobo Picker (same page as Positions), with Go Button for Zoom, Focus, Gobo, Animation and Iris Small.
+* Color Picker Presets, Find a Color combination you want and save it to a recallable Preset.
+* Advanced Position Phaser Engine! Two Seperate Phaser Faders, you can Select Which Groups you want to have in the Faders with: Phaser Form, Groups, Blocks, Wings, Phase and SelectionShuffle .
+* Advanced Color and Dimmer Phaser Engine! Select which groups you want to have in the Phaser Fader with: Form, XGroups, XBlocks, XWings, Phase and Selection Shuffle.
+
 
 # Support
 Head on over to the MA Users Discord for support for this Showfile - https://discord.gg/bdxy9MtsqY
