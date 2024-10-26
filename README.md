@@ -1,7 +1,7 @@
 # MA3_StartShow
 My custom grandMa 3 StartShow file.
 
-The modifications I have made to the start show are:
+### The modifications I have made to the start show are:
 
 * Compact Position Picker, with Go Button to all move at once. (Updated Position Preset Macro, to Include Low/Mid/High Positions.
 * Compact Gobo Picker (same page as Positions), with Go Button for Zoom, Focus, Gobo, Animation and Iris Small.
@@ -9,7 +9,7 @@ The modifications I have made to the start show are:
 * Advanced Position Phaser Engine! Two Seperate Phaser Faders, you can Select Which Groups you want to have in the Faders with: Phaser Form, Groups, Blocks, Wings, Phase and Selection Shuffle.
 * Advanced Color and Dimmer Phaser Engine! Select which groups you want to have in the Phaser Fader with: Form, XGroups, XBlocks, XWings, Phase and Selection Shuffle.
 
-Things Currently on my radar to improve: 
+### Things Currently on my radar to improve: 
 
 * Part of the Position Preset Macro that asks for your Pan and Tilt Limits (-35 Thru 35 Pan, -10 Thru 100 Tilt Etc.)
 * A macro that makes your Base Groups (Linear/Odd/Even).
@@ -34,6 +34,7 @@ Things Currently on my radar to improve:
 You Patch your fixtures the same as the exisiting start show, and build your groups the same. You need your fixtures to be put in their roughly correct 3D position as on the StartShow Update Layout view there is a new group for the Phaser Grid Selection which is an overall Grid selection of your Fixtures from the Top Down Perspective. You'll also need to store the Full Linear selection into the Phaser Linear Group.
 
 # Support
+
 Head on over to the MA Users Discord for support for this Showfile - https://discord.gg/bdxy9MtsqY
 
 # Screenshots
