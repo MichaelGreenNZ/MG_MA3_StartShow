@@ -14,7 +14,7 @@ Things Currently on my radar to improve:
 * Part of the Position Preset Macro that asks for your Pan and Tilt Limits (-35 Thru 35 Pan, -10 Thru 100 Tilt Etc.)
 * A macro that makes your Base Groups (Linear/Odd/Even).
 * A focus macro that does your (Small/Mid/Wide)
-
+* Group Intensity Faders change color depending on what color is set from color picker.
 # Updates/Fixes
 
 
