@@ -15,6 +15,9 @@ Things Currently on my radar to improve:
 * A macro that makes your Base Groups (Linear/Odd/Even).
 * A focus macro that does your (Small/Mid/Wide)
 
+# Updates/Fixes
+
+
 
 # Support
 Head on over to the MA Users Discord for support for this Showfile - https://discord.gg/bdxy9MtsqY
