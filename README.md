@@ -7,12 +7,12 @@
   <a href="https://www.linkedin.com/in/michaelgreennz/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://discord.gg/bdxy9MtsqY">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
   <a href="https://www.facebook.com/MichaelGreenNZ/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <!-- <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
 </div>
 
 ## Introduction
@@ -69,8 +69,9 @@ You Patch your fixtures the same as the exisiting start show, and build your gro
 
 # Support
 
-Head on over to the MA Users Discord for support for this Showfile - https://discord.gg/bdxy9MtsqY
-
+Head on over to the MA Users Discord for support for this Showfile - <a href="https://discord.gg/bdxy9MtsqY">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
 
 
 # Screenshots
