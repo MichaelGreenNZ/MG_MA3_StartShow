@@ -15,8 +15,19 @@ Things Currently on my radar to improve:
 * A macro that makes your Base Groups (Linear/Odd/Even).
 * A focus macro that does your (Small/Mid/Wide)
 * Group Intensity Faders change color depending on what color is set from color picker.
+
 # Updates/Fixes
 
+## v0.1.2
+* Finished Position Phaser Phase Invert Macros and Updated Position Phaser Layout view.
+* $MAStart_PositionPhaser1XPhaseTo/XPhaseFrom are now defined and controlled by the Phase Invert Macros.
+
+## v0.1.1
+* Fixed the Position Phaser 1 macros to correctly set the Position Phaser 1 Variables. 
+* Started working on the Position Phaser Invert macros to properly define the $MAStart_PositionPhaser1XPhaseFrom and $MAStart_PositionPhaser1XPhaseTo in the global variables as this doesn't currently exist, except for being manually defined.
+
+## v0.1
+* Intial Release
 
 
 # Support
