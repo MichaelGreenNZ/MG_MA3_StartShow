@@ -1,5 +1,10 @@
 # MA3_StartShow
-My custom grandMa 3 StartShow file.
+
+I liked the foundation that the MA StartShow file provided, but found there were limitations in how I wanted to Busk for the shows I work on. So I set about modifying and customising small bits of the file to my liking. 
+
+I started with the Position, Dimmer and Color Phasers as I wasn't a fan of toggling on each individual group and they just started running. I wanted more control over when they started and stopped. Taking inspiration from a Plugin I had seen from MA 2 and also Christian Jacksons MA 2 FX Macros from You Tube, I set about building A single fader per Phaser Type and adding or removing Groups of Fixtures from Those Phasers. My first attempt was clunky but functional to me, however could break with the slightest group update or preset change. So kept working on that, testing it on various rock and theatre shows that I was working on. Eventually got it to the stage of stability and not able to break it by changing anything in patch/groups/presets, Using worlds applied to the Phaser Faders and a Single Grid or Linear Select group applied to the Recipe Line and varying forms options controlled by macros.
+
+My Next goal was a more Compact Position Picker with more Position options (Low/Mid/High) as I am often working on a MA 3 Light and wanted to reduce the amount of View changes I needed to make per Change. I also wanted to be able to select a number of position changes per each group and trigger them all at the same time either with a snap or a fade. A similar function to Giaffo Designs 'Ratemaster Go'.
 
 ### The modifications I have made to the start show are:
 
