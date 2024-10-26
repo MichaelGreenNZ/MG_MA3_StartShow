@@ -19,7 +19,7 @@ Things Currently on my radar to improve:
 # Support
 Head on over to the MA Users Discord for support for this Showfile - https://discord.gg/bdxy9MtsqY
 
-#Screenshots
+# Screenshots
 
 ![Position_Gobo Picker](https://github.com/user-attachments/assets/e137d857-f0b3-492c-8de5-a4d1dcb66fee)
 
