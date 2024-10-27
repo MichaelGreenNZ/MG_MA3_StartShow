@@ -48,18 +48,18 @@ Hopefully you find this useful either in using the file for your own shows, or f
 
 # Updates/Fixes
 
-## v0.1.3
+### v0.1.3
 * Fixed Color Presets White/CTO/CTB/Red containing Recipe information that wasn't needed.
 
-## v0.1.2
+### v0.1.2
 * Finished Position Phaser Phase Invert Macros and Updated Position Phaser Layout view.
 * $MAStart_PositionPhaser1XPhaseTo/XPhaseFrom are now defined and controlled by the Phase Invert Macros.
 
-## v0.1.1
+### v0.1.1
 * Fixed the Position Phaser 1 macros to correctly set the Position Phaser 1 Variables. 
 * Started working on the Position Phaser Invert macros to properly define the $MAStart_PositionPhaser1XPhaseFrom and $MAStart_PositionPhaser1XPhaseTo in the global variables as this doesn't currently exist, except for being manually defined.
 
-## v0.1
+### v0.1
 * Intial Release
 
 
