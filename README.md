@@ -15,8 +15,8 @@
   </a>
 </div>
 
-### Current Console Version File Saved On
-**V 2.0.0.2**
+## Current Console Version File Saved On
+### Version **2.0.0.2**
 
 ## Introduction
 
