@@ -51,6 +51,19 @@ Hopefully you find this useful either in using the file for your own shows, or f
 
 # Updates/Fixes
 
+## v0.1.5
+* Fixed - Bug in the Position and Gobo Layout view, that meant the  "Go" button wasn't respected when switching from delay 0 to any other delay option.
+* Fixed - Bug in the Position and Gobo Layout view, that meant the "Go" button wasn't allowing delay movements to complete before resetting and stopping the transition.
+* Updated all the Macros on Position and Gobo Layout view to Reference Appearance and Macro's using new system.
+* Updated the Custom Input Macros on Position and Gobo Layout view to provide a notification of what it's currently set to once activated, and will show what it was set to previously if changed to 0/2/4/3.
+
+## v0.1.4
+* Changed all the Phaser Faders to use the Grid and Linear groups created at the start of showfile creation, simplifying setting up the file and making Blocks and Groups work better within the Phasers. - Deleted Phaser Grid/Linear Groups at 5001+5002.
+* Fixed several errors in Macros with incorrect Sequence or Preset Name.
+* Fixed the Strict/Normal Macros for each group to work correctly with new Phaser Faders.
+* Better indication of what Group/Block/Delay/Fade/OffFade you've set on the Custom Input Button with read out from entered information. - Not yet Implemented on Position/Gobo/Color Picker Layouts, just on Phasers.
+* Many more than I can remember it's 1am!
+
 ### v0.1.3
 * Fixed Color Presets White/CTO/CTB/Red containing Recipe information that wasn't needed.
 
