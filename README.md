@@ -50,6 +50,10 @@ Hopefully you find this useful either in using the file for your own shows, or f
 
 # Updates/Fixes
 
+## v0.1.6
+* Added a new Dimmer Bump feature seperate from LOS Engine, allowing for simpler 1-shot dimmer bumps. New Layout View called BUMPS saved to MA3 Light/Full-Size Left Screen in Command Section.
+* Tidied up appearances and some macros with old references.
+
 ## v0.1.5
 * Fixed - Bug in the Position and Gobo Layout view, that meant the  "Go" button wasn't respected when switching from delay 0 to any other delay option.
 * Fixed - Bug in the Position and Gobo Layout view, that meant the "Go" button wasn't allowing delay movements to complete before resetting and stopping the transition.
