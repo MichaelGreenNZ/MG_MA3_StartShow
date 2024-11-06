@@ -91,6 +91,9 @@ Hopefully you find this useful either in using the file for your own shows, or f
 
 You Patch your fixtures the same as the exisiting start show, and build your groups the same. You need your fixtures to be put in their roughly correct 3D position, this makes group creation and the Grid Groups work better with the Phaser Faders.
 
+### Color Gradient Example
+[![Color Gradient Example](https://github.com/user-attachments/assets/50972813-3ec5-417f-9d55-2d7858adbc9f)](https://youtu.be/kphdg0l2gx8
+)
 
 # Support
 
