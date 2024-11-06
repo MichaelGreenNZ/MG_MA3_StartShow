@@ -50,6 +50,10 @@ Hopefully you find this useful either in using the file for your own shows, or f
 
 # Updates/Fixes
 
+## v0.1.7
+* Fixed a bug in the Col/Dim Phaser Form selection that referenced a deleted Sequence, this broke the Form Selection completely.
+* Added a Color Gradient to Color Picker, and Foreground/Background Color Selector to bottom of Color Picker
+
 ## v0.1.6
 * Added a new Dimmer Bump feature seperate from LOS Engine, allowing for simpler 1-shot dimmer bumps. New Layout View called BUMPS saved to MA3 Light/Full-Size Left Screen in Command Section.
 * Tidied up appearances and some macros with old references.
@@ -98,12 +102,16 @@ Head on over to the MA Users Discord for support for this Showfile - <a href="ht
 
 # Screenshots
 
-![Position_Gobo Picker](https://github.com/user-attachments/assets/e137d857-f0b3-492c-8de5-a4d1dcb66fee)
+![Position_Gobo Picker](https://github.com/user-attachments/assets/495fab79-e9b8-4a6f-99a5-08c407a681ce)
 
-![Colour Picker](https://github.com/user-attachments/assets/dad0861a-f4f5-44bd-baea-9181ff9ccf24)
+![Colour Picker](https://github.com/user-attachments/assets/41b91c33-0d54-4d65-81bd-bf3c92416bf5)
 
-![Position Phaser Picker](https://github.com/user-attachments/assets/2da58a0f-6ecd-4252-aa15-3ddfb593650e)
+![Position Phaser Picker](https://github.com/user-attachments/assets/8976878f-5436-4f99-903b-653fe5366d95)
 
-![DIM_COL Picker](https://github.com/user-attachments/assets/580d673c-29ce-470f-9e0c-40e787cbbc47)
+![DIM_COL Picker](https://github.com/user-attachments/assets/a7c8a6ac-71c8-4216-8788-23c3b9d3d75e)
 
-![Fader Page](https://github.com/user-attachments/assets/35f808a4-dde5-4158-b269-a1bf18473f47)
+![Dimmer Bumps](https://github.com/user-attachments/assets/c1163160-9e56-409d-b7ea-604e116873b3)
+
+![StartShow Content Update](https://github.com/user-attachments/assets/c431db67-da5c-4204-83d6-ba5d2968f996)
+
+![Fader Page](https://github.com/user-attachments/assets/42fdfc56-72ed-4e43-9706-3cde0db32b73)
