@@ -89,8 +89,7 @@ Hopefully you find this useful either in using the file for your own shows, or f
 
 # Usage
 
-You Patch your fixtures the same as the exisiting start show, and build your groups the same. You need your fixtures to be put in their roughly correct 3D position as on the StartShow Update Layout view there is a new group for the Phaser Grid Selection which is an overall Grid selection of your Fixtures from the Top Down Perspective. You'll also need to store the Full Linear selection into the Phaser Linear Group.
-
+You Patch your fixtures the same as the exisiting start show, and build your groups the same. You need your fixtures to be put in their roughly correct 3D position, this makes group creation and the Grid Groups work better with the Phaser Faders.
 
 
 # Support
