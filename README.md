@@ -98,7 +98,7 @@ Hopefully you find this useful either in using the file for your own shows, or f
 
 You Patch your fixtures the same as the exisiting start show, and build your groups the same. You need your fixtures to be put in their roughly correct 3D position, this makes group creation and the Grid Groups work better with the Phaser Faders.
 
-### Color Gradient Example
+### Color Gradient Example - Only for Showfile version 0.1.7
 [![Color Gradient Example](https://github.com/user-attachments/assets/50972813-3ec5-417f-9d55-2d7858adbc9f)](https://youtu.be/kphdg0l2gx8
 )
 
@@ -113,7 +113,7 @@ Head on over to the MA Users Discord for support for this Showfile - <a href="ht
 
 ![Position_Gobo Picker](https://github.com/user-attachments/assets/495fab79-e9b8-4a6f-99a5-08c407a681ce)
 
-![Colour Picker](https://github.com/user-attachments/assets/41b91c33-0d54-4d65-81bd-bf3c92416bf5)
+![Colour Picker](https://github.com/user-attachments/assets/ade0dcb1-5136-4c3f-81d3-2a12e3931108)
 
 ![Position Phaser Picker](https://github.com/user-attachments/assets/8976878f-5436-4f99-903b-653fe5366d95)
 
@@ -121,6 +121,6 @@ Head on over to the MA Users Discord for support for this Showfile - <a href="ht
 
 ![Dimmer Bumps](https://github.com/user-attachments/assets/c1163160-9e56-409d-b7ea-604e116873b3)
 
-![StartShow Content Update](https://github.com/user-attachments/assets/c431db67-da5c-4204-83d6-ba5d2968f996)
+![StartShow Content Update](https://github.com/user-attachments/assets/eba2df4b-ca95-4d49-b02a-d0fa167146a0)
 
 ![Fader Page](https://github.com/user-attachments/assets/42fdfc56-72ed-4e43-9706-3cde0db32b73)
