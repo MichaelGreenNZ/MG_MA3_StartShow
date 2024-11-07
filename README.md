@@ -52,6 +52,11 @@ Hopefully you find this useful either in using the file for your own shows, or f
 
 # Updates/Fixes
 
+## v0.1.8
+* Redesigned the Color Gradient option to use a better system to save having to store into a Magic Preset.
+* Trying out some universal Zoom and Iris Presets
+* Trying out two Group Creation macros written by Creative Tech Services - <a href="https://www.instagram.com/beamzbeamzbeamz/">@beamzbeamzbeamz</a>
+
 ## v0.1.7
 * Fixed a bug in the Col/Dim Phaser Form selection that referenced a deleted Sequence, this broke the Form Selection completely.
 * Added a Color Gradient to Color Picker, and Foreground/Background Color Selector to bottom of Color Picker
