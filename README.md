@@ -15,6 +15,8 @@
   </a>
 </div>
 
+## Showfile breaking BUG with MA3 v2.1.1.5, doing a Partial Show Read will break Handle references #[] used throughout the showfile. MVR export of showfile and then import into showfile works fine!
+
 ## Current Console Version File Saved On - **2.1.1.5**
 
 ## Introduction
