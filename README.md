@@ -52,6 +52,11 @@ Hopefully you find this useful either in using the file for your own shows, or f
 
 # Updates/Fixes
 
+## v0.1.9
+* Made Color Gradient Universal, Should just work.
+* StartShow Manual Macro on StartShow Content Update Layout, now Helps build Half your Groups, and walks you through rest of Setup.
+* Postion Maker Macro now asks for you Max Pan Value (e.g. 45), and High/Mid/Low Tilt levels (e.g. 95/45/20) No need for Negative Values, Macro does that for you.
+
 ## v0.1.8
 * Redesigned the Color Gradient option to use a better system to save having to store into a Magic Preset.
 * Trying out some universal Zoom and Iris Presets
@@ -121,6 +126,6 @@ Head on over to the MA Users Discord for support for this Showfile - <a href="ht
 
 ![Dimmer Bumps](https://github.com/user-attachments/assets/c1163160-9e56-409d-b7ea-604e116873b3)
 
-![StartShow Content Update](https://github.com/user-attachments/assets/eba2df4b-ca95-4d49-b02a-d0fa167146a0)
+![StartShow Content Update](https://github.com/user-attachments/assets/5b52e8dc-e0e3-45ee-99f1-7573c91cf65e)
 
 ![Fader Page](https://github.com/user-attachments/assets/42fdfc56-72ed-4e43-9706-3cde0db32b73)
