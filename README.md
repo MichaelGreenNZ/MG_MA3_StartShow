@@ -20,8 +20,8 @@
 ## Current Console Version File Saved On - **2.1.1.5**
 
 ## Introduction
-
-I liked the foundation that the MA StartShow file provided, but found there were limitations in how I wanted to Busk for the shows I work on. So I started modifying and customising small bits of the file to my liking. 
+<details>
+<summary>I liked the foundation that the MA StartShow file provided, but found there were limitations in how I wanted to Busk for the shows I work on. So I started modifying and customising small bits of the file to my liking.</summary>
 
 I started with the Position, Dimmer and Color Phasers as I wasn't a fan of toggling on each individual group and they just started running. I wanted more control over when they started and stopped. Taking inspiration from a Plugin I had seen from MA 2 and also Christian Jacksons MA 2 FX Macros from You Tube, I set about building a single fader per Phaser Type and adding or removing Groups of Fixtures from Those Phasers. My first attempt was clunky but functional to me, however could break with the slightest group update or preset change. So kept working on that, testing it on various rock and theatre shows that I was working on. Eventually got it to the stage of stability and not able to break it by changing anything in patch/groups/presets, Using worlds applied to the Phaser Faders and a Single Grid or Linear Select group applied to the Recipe Line and varying forms options controlled by macros.
 
@@ -32,6 +32,7 @@ Trying to create the Color Picker Preset was a fun challenge, having to learn mo
 The compacting of the Gobo Selector proved difficult with the implementation of the seperate zoom range across Open/Gobo 1/Gobo 2. While also making it all function with a synced go Button also. Eventually the only way was to seperate out the zoom and focus in the presets, so you have your three zoom levels, and then 14 different Focus Presets (not ideal, hopefully I can find a better way) three each for Open/Gobo 1/Gobo 2 and one each for Iris Small and Animation Wheel.
 
 Hopefully you find this useful either in using the file for your own shows, or finding things in the macros that you can use in your own file! Feel free to link me to any of your gig photos on Instagram or via the Discord #Sscreenshots Channel. I really want to keep building on this, and am open to any suggestions so long as I am capable of doing them!
+</details>
 
 ### The modifications I have made to the start show are:
 
@@ -40,6 +41,10 @@ Hopefully you find this useful either in using the file for your own shows, or f
 * Color Picker Presets, Find a Color combination you want and save it to a recallable Preset. Create your Color look, and then tap the 'Store Color Preset' button, next tap on one of the 20 Color Preset Buttons on the Layout View then name it.
 * Advanced Position Phaser Engine! Two Seperate Phaser Faders, you can Select Which Groups you want to have in the Faders with: Phaser Form, Groups, Blocks, Wings, Phase and Selection Shuffle.
 * Advanced Color and Dimmer Phaser Engine! Select which groups you want to have in the Phaser Fader with: Form, XGroups, XBlocks, XWings, Phase and Selection Shuffle.
+* Static Color Gradient as part of the Color Picker
+* Position Preset Macro asks for you Max Pan and High/Mid/Low Tilt Values.
+* Small/Mid/Wide Zoom as a Universal preset. You should just need to save Focus to indicated Presets
+* Part of the StartShow Manual Macro now directs you to a Macro that builds your Linear/Even/Odd Groups for you.
 
 ### Things Currently on my radar to improve: 
 
@@ -47,7 +52,6 @@ Hopefully you find this useful either in using the file for your own shows, or f
 * ~~A macro that makes your Base Groups (Linear/Odd/Even).~~
 * ~~A focus macro that does your (Small/Mid/Wide)~~
 * Group Intensity Faders change color depending on what color is set from color picker.
-
 
 
 # Updates/Fixes
@@ -96,7 +100,6 @@ Hopefully you find this useful either in using the file for your own shows, or f
 
 ### v0.1
 * Intial Release
-
 
 
 # Usage
