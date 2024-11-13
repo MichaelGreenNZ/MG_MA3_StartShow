@@ -51,10 +51,15 @@ Hopefully you find this useful either in using the file for your own shows, or f
 * ~~Part of the Position Preset Macro that asks for your Pan and Tilt Limits (-35 Thru 35 Pan, -10 Thru 100 Tilt Etc.)~~
 * ~~A macro that makes your Base Groups (Linear/Odd/Even).~~
 * ~~A focus macro that does your (Small/Mid/Wide)~~
-* Group Intensity Faders change color depending on what color is set from color picker.
+* ~~Group Intensity Faders change color depending on what color is set from color picker.~~
 
 
 # Updates/Fixes
+
+## v0.2.0
+* Finalised Gradients Macros, and improved gradient look on color picker.
+* Intensity Faders can now follow the color selection for each group with a toggle button on StartShow Content Update layout.
+* Modified how the Auto Groups Macro works, to flow better with StartShow File.
 
 ## v0.1.9
 * Made Color Gradient Universal, Should just work.
