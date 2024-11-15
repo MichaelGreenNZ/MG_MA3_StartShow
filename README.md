@@ -111,9 +111,21 @@ Hopefully you find this useful either in using the file for your own shows, or f
 
 You Patch your fixtures the same as the exisiting start show, and build your groups the same. You need your fixtures to be put in their roughly correct 3D position, this makes group creation and the Grid Groups work better with the Phaser Faders.
 
-### Color Gradient Example - Only for Showfile version 0.1.7
-[![Color Gradient Example](https://github.com/user-attachments/assets/50972813-3ec5-417f-9d55-2d7858adbc9f)](https://youtu.be/kphdg0l2gx8
-)
+### Patching
+[![Patching](https://github.com/user-attachments/assets/1d834994-8786-4b3a-a7e8-33b1bd5ebf99)](https://youtu.be/G5l1ojvGz3g)
+
+### 3D Positioning
+[![3D Positioning](https://github.com/user-attachments/assets/070293de-468d-423a-9e45-80d0bd01d839))](https://youtu.be/xfx3YkSZVCE)
+
+### Groups
+[![Groups](https://github.com/user-attachments/assets/749152fa-6c2c-49ab-bb41-80e3f16aff54)](https://youtu.be/n5s7kSR7IoU)
+
+### Grids
+[![Grids](https://github.com/user-attachments/assets/290bb194-16d9-4110-abe9-8534932a4eb9)](https://youtu.be/VtlsLhKlaQM)
+
+### Thirds
+[![Thirds](https://github.com/user-attachments/assets/66455fd9-f499-4879-9448-47259083b43d)](https://youtu.be/lYN3jvpclCs)
+
 
 # Support
 
