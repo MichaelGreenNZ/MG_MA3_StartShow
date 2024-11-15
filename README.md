@@ -100,6 +100,11 @@ Head on over to the MA Users Discord for support for this Showfile - <a href="ht
 
 # Updates/Fixes
 
+## v0.2.1
+* Tidied up some missed macros with incorrect handles
+* Added flashing for the Position and Gobo Go buttons when you have selected something to change, but not yet triggered it.
+* Recorded patching videos to get started. need to redo some of them
+
 ## v0.2.0
 * Finalised Gradients Macros, and improved gradient look on color picker.
 * Intensity Faders can now follow the color selection for each group with a toggle button on StartShow Content Update layout.
