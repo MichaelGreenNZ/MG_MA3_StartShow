@@ -100,6 +100,11 @@ Head on over to the MA Users Discord for support for this Showfile - <a href="ht
 
 # Updates/Fixes
 
+## v0.2.2
+* Found, then Fixed Bugs in the Gobo Selector
+* Added GroupMasters Page Flip on Exec.115
+* Tidied up some under the hood macros.
+
 ## v0.2.1
 * Tidied up some missed macros with incorrect handles
 * Added flashing for the Position and Gobo Go buttons when you have selected something to change, but not yet triggered it.
