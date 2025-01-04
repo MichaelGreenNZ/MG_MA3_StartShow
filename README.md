@@ -83,15 +83,15 @@ Head on over to the MA Users Discord for support for this Showfile - <a href="ht
 
 # Screenshots
 
-![Position_Gobo Picker](https://github.com/user-attachments/assets/495fab79-e9b8-4a6f-99a5-08c407a681ce)
+![Position_Gobo Picker](https://github.com/user-attachments/assets/7760c073-06a8-4165-8fb4-50c3e059c1d7)
 
-![Colour Picker](https://github.com/user-attachments/assets/ade0dcb1-5136-4c3f-81d3-2a12e3931108)
+![Colour Picker](https://github.com/user-attachments/assets/4538d6c8-d108-44e6-a89d-3565d5be41c5)
 
-![Position Phaser Picker](https://github.com/user-attachments/assets/8976878f-5436-4f99-903b-653fe5366d95)
+![Position Phaser Picker](https://github.com/user-attachments/assets/ee349595-c4aa-4ce9-8fe3-09feb66039dc)
 
-![DIM_COL Picker](https://github.com/user-attachments/assets/a7c8a6ac-71c8-4216-8788-23c3b9d3d75e)
+![DIM_COL Picker](https://github.com/user-attachments/assets/9bdf5e76-4768-4853-bfd9-2e9db77dc370)
 
-![Dimmer Bumps](https://github.com/user-attachments/assets/c1163160-9e56-409d-b7ea-604e116873b3)
+![Dimmer Bumps](https://github.com/user-attachments/assets/be602d1e-ddbc-4940-be39-0274797f42eb)
 
 ![StartShow Content Update](https://github.com/user-attachments/assets/5b52e8dc-e0e3-45ee-99f1-7573c91cf65e)
 
@@ -99,6 +99,13 @@ Head on over to the MA Users Discord for support for this Showfile - <a href="ht
 
 
 # Updates/Fixes
+
+## v1.0 
+### This is likely the Final Release of this Showfile in it's current state. Have plans to overhaul groups and group selection across the showfile.
+* Added YPhase selection to All Phasers
+* Added Individual Grid or Linear Selection per Group for all phasers
+* Updated Position and Gobo Go Flashing to an animation so i'm not filling command line with appearance changes (baaaaad idea that was!)
+* Converted to an Overall Grid Selection for phasers. To enable the function of YPhase (Use either 3D Top/Front or custom Layout view) and store into Overall Grid Group. (going to try and create a toggle that lets you choose between individual grid groups or overall grid group per group.)
 
 ## v0.2.2
 * Found, then Fixed Bugs in the Gobo Selector
