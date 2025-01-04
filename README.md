@@ -17,6 +17,9 @@
 
 ## Showfile breaking BUG with MA3 v2.1.1.5, doing a Partial Show Read will break Handle references #[] used throughout the showfile. MVR export of showfile and then import into showfile works fine!
 
+
+## Current Showfile Version - v1.0 
+### This is likely the Final Release of this Showfile in it's current state. Have plans to overhaul groups and group selection across the showfile.
 ## Current Console Version File Saved On - **2.1.1.5**
 
 ## Introduction
