@@ -77,7 +77,8 @@ You Patch your fixtures the same as the exisiting start show, and build your gro
 [![Thirds](https://github.com/user-attachments/assets/66455fd9-f499-4879-9448-47259083b43d)](https://youtu.be/lYN3jvpclCs)
 
 ### Overall Grids
-[![image](https://github.com/user-attachments/assets/845c8ad1-4fb6-4056-9ef4-9a08ccf95096)](https://youtu.be/aCxXiVV4gp0)
+[![Overall Grids](https://github.com/user-attachments/assets/6f26114a-78d2-492d-94ec-4991db61f489)](https://youtu.be/aCxXiVV4gp0)
+
 
 ### Overall Grid Instances
 [![Overall Grid Instances](https://github.com/user-attachments/assets/188fe9cc-1ea3-4237-bb33-52002d2e800a)](https://youtu.be/nbR0JCaP5DE)
