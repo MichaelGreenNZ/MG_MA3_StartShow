@@ -18,7 +18,7 @@
 ## Showfile breaking BUG with MA3 v2.1.1.5, doing a Partial Show Read will break Handle references #[] used throughout the showfile. MVR export of showfile and then import into showfile works fine!
 
 
-## Current Showfile Version - v1.0 
+## Current Showfile Version - v1.1 
 ### This is likely the Final Release of this Showfile in it's current state. Have plans to overhaul groups and group selection across the showfile.
 ## Current Console Version File Saved On - **2.1.1.5**
 
@@ -102,12 +102,17 @@ Head on over to the MA Users Discord for support for this Showfile - <a href="ht
 
 ![Dimmer Bumps](https://github.com/user-attachments/assets/be602d1e-ddbc-4940-be39-0274797f42eb)
 
-![StartShow Content Update](https://github.com/user-attachments/assets/5b52e8dc-e0e3-45ee-99f1-7573c91cf65e)
+![StartShow Content Update](https://github.com/user-attachments/assets/63cfb862-4010-4d62-9f9e-59474901cabb)
 
 ![Fader Page](https://github.com/user-attachments/assets/42fdfc56-72ed-4e43-9706-3cde0db32b73)
 
 
 # Updates/Fixes
+
+## v1.1 
+### This is likely the Final Release of this Showfile in it's current state. Have plans to overhaul groups and group selection across the showfile.
+* Fixed Bug in Color Phaser Grid/Linear Selection (Thanks Noz from Discord)
+* Added Individual Group Grid or Overall Grid Selection per Group for all phasers
 
 ## v1.0 
 ### This is likely the Final Release of this Showfile in it's current state. Have plans to overhaul groups and group selection across the showfile.
