@@ -21,7 +21,6 @@
 ## Current Showfile Version - v1.1 
 ### This is likely the Final Release of this Showfile in it's current state. Have plans to overhaul groups and group selection across the showfile.
 ## Current Console Version File Saved On - **2.2.5.0**
-### Untested on V2.2, Use at own risk.
 
 ## Introduction
 <details>
