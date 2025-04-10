@@ -23,7 +23,10 @@
 ## Current Console Version File Saved On - **2.2.5.0**
 
 
-[![Button Hover]] [https://github.com/MichaelGreenNZ/MG_MA3_StartShow/releases/latest]
+<!-- BEGIN LATEST DOWNLOAD BUTTON -->
+[![Download Latest Release](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download Latest Release")](https://github.com/MichaelGreenNZ/MG_MA3_StartShow/releases/latest)
+<!-- END LATEST DOWNLOAD BUTTON -->
+
 
 ## Introduction
 <details>
