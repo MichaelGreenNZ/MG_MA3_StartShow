@@ -22,6 +22,9 @@
 ### This is likely the Final Release of this Showfile in it's current state. Have plans to overhaul groups and group selection across the showfile.
 ## Current Console Version File Saved On - **2.2.5.0**
 
+
+[![Button Hover] [https://github.com/MichaelGreenNZ/MG_MA3_StartShow/releases/latest]
+
 ## Introduction
 <details>
 <summary>I liked the foundation that the MA StartShow file provided, but found there were limitations in how I wanted to Busk for the shows I work on. So I started modifying and customising small bits of the file to my liking.</summary>
