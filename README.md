@@ -15,7 +15,9 @@
   </a>
 </div>
 
-## Showfile breaking BUG with MA3 v2.1.1.5, doing a Partial Show Read will break Handle references #[] used throughout the showfile. MVR export of showfile and then import into showfile works fine!
+## Showfile breaking BUG with MA3
+* ### v2.3.0.4, Due to changes in "Pool Actions", Phasers and other things. The Showfile does not work correctly in this version. 
+* ### v2.1.1.5, doing a Partial Show Read will break Handle references #[] used throughout the showfile. MVR export of showfile and then import into showfile works fine!
 
 
 ## Current Showfile Version - v1.2 
