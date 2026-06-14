@@ -15,13 +15,14 @@
   </a>
 </div>
 
+<!--
 ## Showfile breaking BUG with MA3
 * ### v2.3.0.4, Due to changes in "Pool Actions", Phasers and other things. The Showfile does not work correctly in this version. 
 * ### v2.1.1.5, doing a Partial Show Read will break Handle references #[] used throughout the showfile. MVR export of showfile and then import into showfile works fine!
+-->
 
-
-## Current Showfile Version - v1.2 
-## Current Console Version File Saved On - **2.2.5.0**
+## Current Showfile Version - v1.3 
+## Current Console Version File Saved On - **2.3.2.0**
 
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
@@ -115,6 +116,9 @@ Head on over to the MA Users Discord for support for this Showfile - <a href="ht
 
 
 # Updates/Fixes
+
+## v1.3 
+* Fixed Phaser macros to work correctly within 1.3
 
 ## v1.1 
 ### This is likely the Final Release of this Showfile in it's current state. Have plans to overhaul groups and group selection across the showfile.
